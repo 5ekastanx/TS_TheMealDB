@@ -1,40 +1,48 @@
 # TS_TheMealDB
-# Описание проекта
-TS_TheMealDB — это онлайн магазин еды, написанный с использованием React и TypeScript. Этот проект позволяет пользователям просматривать и заказывать блюда, предоставляя интерактивный и удобный интерфейс.
+## Project Description
+TS_TheMealDB is an online food store built using React and TypeScript. This project allows users to browse and order meals, providing an interactive and user-friendly interface.
 
-# Технологии
-React: Используется для создания пользовательского интерфейса.
-TypeScript: Обеспечивает статическую типизацию и улучшает качество кода. 
-Асинхронные функции: Используются для обработки API-запросов и обеспечения плавного взаимодействия с пользователем.
-Основные функции
-Просмотр блюд: Пользователи могут просматривать список доступных блюд.
-Детальная информация: Возможность просматривать подробную информацию о каждом блюде.
-Поиск: Поиск блюд по названию.
-Заказ: Возможность добавлять блюда в корзину и оформлять заказ.
-# Установка
-Клонируйте репозиторий:
+## Technologies
+**React**: Used for building the user interface.
+**TypeScript**: Provides static typing and improves code quality.
+**Asynchronous functions**: Used to handle API requests and ensure smooth user interaction.
+### Key Features
+**Browse meals**: Users can browse a list of available meals.
+**Detailed information***: Ability to view detailed information about each meal.
+**Search**: Search meals by name.
+**Order**: Option to add meals to the cart and place orders.
+### Installation
+### Clone the repository:
 
+```bash
 git clone https://github.com/5ekastanx/TS_TheMealDB.git
-Перейдите в папку проекта:
+```
+### Navigate to the project folder:
 
+```bash
 cd TS_TheMealDB
-Установите зависимости:
+```
+### Install dependencies:
 
+```bash
 npm install
-Запуск
-Запустите проект:
+```
+### Running the Project
+### Start the project:
 
+```bash
 npm start
-Откройте браузер и перейдите по адресу:
+```
+### Open your browser and go to:
 
 http://localhost:3000
-Использование API
-Проект использует внешние API для получения данных о блюдах. Асинхронные функции и промисы используются для эффективной работы с этими API.
+### Using the API
+The project uses external APIs to fetch meal data. Asynchronous functions and promises are utilized for efficient interaction with these APIs.
 
-# Структура проекта
-src/components: Компоненты React.
-src/pages: Страницы приложения.
-src/services: Логика взаимодействия с API.
-src/styles: Стили приложения.
-Контрибьютинг
-Если вы хотите внести вклад в проект, пожалуйста, создайте форк репозитория, сделайте изменения и отправьте pull request. Мы приветствуем все предложения и замечания!
+### Project Structure
+src/components: React components.
+src/pages: Application pages.
+src/services: API interaction logic.
+src/styles: Application styles.
+### Contributing
+If you would like to contribute to the project, please fork the repository, make your changes, and submit a pull request. We welcome all suggestions and feedback!
