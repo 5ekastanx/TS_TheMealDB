@@ -22,8 +22,6 @@ git clone https://github.com/5ekastanx/TS_TheMealDB.git
 ```bash
 cd TS_TheMealDB
 ```
-### Install dependencies:
-
 ```bash
 npm install
 ```
